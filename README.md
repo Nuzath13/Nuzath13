@@ -1,16 +1,19 @@
-## Hi there 👋
+# Welcome to My GitHub! 👋
 
-<!--
-**Nuzath13/Nuzath13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm **Nuzath Farheen**, a **Business Analyst** passionate about exploring and understanding diverse **tech stacks** while working on exciting projects. My journey is fueled by curiosity and a desire to bridge the gap between business and technology.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🌱 Currently learning: **Python, Data Visualization, Cloud Computing**  
+- 💡 Exploring: Innovative tools and methodologies to enhance business processes.  
+- 🛠️ Combining: Analytical skills with technical know-how to deliver impactful solutions.  
+
+---
+
+## 📊 GitHub Stats and Commit Graph
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nuzath13&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuzath13&layout=compact&theme=radical)  
+![Streak Stats](https://streak-stats.demolab.com?user=Nuzath13&theme=radical&hide_border=true)
